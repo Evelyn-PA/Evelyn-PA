@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Evelyn Nguyen, a third-year IT student at HAMK. I'm passionate about front-end development and currently seeking an internship to apply my skills in a real-world setting. I'm proficient in HTML, CSS, and JavaScript, and I'm eager to learn and grow as a developer.
+👋 Hi, I'm Evelyn Nguyen, a third-year IT student at HAMK. I'm passionate about front-end development and currently seeking an internship to apply my skills in a real-world setting. I'm proficient in HTML, CSS, JavaScript and React, and I'm eager to learn and grow as a developer.
 
 
 ## 🌐 Socials:
